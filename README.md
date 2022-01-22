@@ -1,3 +1,2 @@
 # Grids-and-media
-grids media and flex
-this project is made with media, grids en flex techniques.
+This project is made with media, grids and flex techniques.
