@@ -1,2 +1,2 @@
 # Grids-and-media
-This project is made with media, grids and flex techniques.
+This project is made with media query, grids and flex techniques.
